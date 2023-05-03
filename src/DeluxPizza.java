@@ -5,6 +5,7 @@ public class DeluxPizza extends Pizza {
 		super(veg);
 		super.addExtraCheese();
 		super.addExtraToppings();
+		super.getBill();
 	}
 	
 
